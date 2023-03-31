@@ -1,6 +1,6 @@
 Name:		texlive-jumplines
 Version:	37553
-Release:	1
+Release:	2
 Summary:	Articles with teasers and continuation later on
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jumplines
